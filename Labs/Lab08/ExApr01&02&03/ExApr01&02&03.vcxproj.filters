@@ -23,7 +23,7 @@
     <ClCompile Include="Pilha.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ExFix01.cpp">
+    <ClCompile Include="ExApr03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

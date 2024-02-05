@@ -1,6 +1,7 @@
 
 // definição do tipo Item
-using Item = char;
+//using Item = char;
+using Item = float;
 
 // ----------------------------------
 // Declaração da Classe Pilha
