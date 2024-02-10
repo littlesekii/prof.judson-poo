@@ -129,12 +129,13 @@
   <ItemGroup>
     <ClInclude Include="Vetor.h" />
     <ClInclude Include="VetorEncapsulado.h" />
+    <ClInclude Include="VetorPolar.h" />
     <ClInclude Include="VetorRet.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ExRev01.cpp" />
     <ClCompile Include="Vetor.cpp" />
     <ClCompile Include="VetorEncapsulado.cpp" />
+    <ClCompile Include="VetorPolar.cpp" />
     <ClCompile Include="VetorRet.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
